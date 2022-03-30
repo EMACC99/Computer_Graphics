@@ -37,7 +37,8 @@ jobs:
         # Learn more about CodeQL language support at https://git.io/codeql-language-support
 
     steps:
-    - run: sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
+    - run: sudo apt update && sudo apt upgrade -y
+    - run: sudo apt install libglu1-mesa-dev freeglut3-dev mesa-common-dev -y
           
     - name: Install Qt
       uses: jurplel/install-qt-action@v2.14.0
