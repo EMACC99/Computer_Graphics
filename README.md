@@ -1,6 +1,6 @@
-# QTViewport for OpenGL
+# OpenGl course
 
-A simple QT viewport for OpenGL
+Repo for my Computer Graphics course at uni using QT as a viewport and OpenGL
 
 ## Requirements
 
