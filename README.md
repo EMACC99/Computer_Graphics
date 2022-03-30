@@ -14,13 +14,13 @@ A simple QT viewport for OpenGL
 Clone the repo
 
 ```sh
-git clone https://github.com/EMACC99/QTViewport_OpenGL
+https://github.com/EMACC99/Computer_Graphics
 ```
 
 Then change to the folder repo with
 
 ```sh
-cd QTViewport_OpenGL
+cd Computer_Graphics
 ```
 
 ### Compilation
